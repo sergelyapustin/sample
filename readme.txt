@@ -5,5 +5,5 @@ From two
 
 new branch stuf
 one more edit
-new edit
-bla
+
+deleted some stuff
