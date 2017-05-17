@@ -3,4 +3,7 @@ readme.txt
 This is my first git repo
 From two
 
-new branch stuff
+new branch stuf
+one more edit
+new edit
+bla
